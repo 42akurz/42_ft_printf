@@ -28,7 +28,8 @@ Go to the repository and run make
 ```bash
 make
 ```
-Copy libftprintf.a and ft_printf.h into your directory and include ft_printf.h in your files
+Make sure that libftprintf.a and ft_printf.h are in the same directory that you want to call ft_printf from.
+Include ft_printf.h in your files
 ```c
 #include "ft_printf.h"
 ```

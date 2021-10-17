@@ -22,7 +22,7 @@ ft_printf includes the following format specifiers:
 
 Clone the repository:
 ```bash
-https://github.com/42akurz/ft_printf.git
+https://github.com/42akurz/42_ft_printf.git
 ```
 Go to the repository and run make
 ```bash

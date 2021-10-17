@@ -1,4 +1,4 @@
-# ft_printf
+# ft_printf - 42 School Project
 
 ## About
 The task of the 'ft_printf' project from the 42 School was, to recode the behaviour of the original printf function.

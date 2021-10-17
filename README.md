@@ -1,6 +1,6 @@
 # ft_printf - 42 School Project
 
-[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
 ## About
 The task of the 'ft_printf' project from the 42 School was, to recode the behaviour of the original printf function.

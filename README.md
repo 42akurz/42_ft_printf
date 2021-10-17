@@ -30,7 +30,7 @@ make
 ```
 Copy libftprintf.a and ft_printf.h into your directory and include ft_printf.h in your files
 ```c
-#include "libft.h"
+#include "ft_printf.h"
 ```
 Compile your files with libftprintf.a
 ```bash

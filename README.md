@@ -36,7 +36,7 @@ Compile your files with libftprintf.a
 ```bash
 gcc yourfile_01.c libftprintf.a
 ```
-Use clean to delete all object files, fclean to remove all object files and libft.a and re to recompile the library
+Use clean to delete all object files, fclean to remove all object files and libftprintf.a and re to recompile the library
 ```bash
 make clean / make fclean / make re
 ```

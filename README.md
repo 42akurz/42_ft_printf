@@ -7,9 +7,9 @@ The printf function copies a string of character to the stdout. The string can i
 ft_printf includes the following format specifiers:
 
 | Format specifier        | Description                                                              |
-| :---:                   | :---:                                                                    |
-| %d                      | converts signed inegers                                                  |
-| %i                      | converts signed inegers                                                  |
+| :---                   | :---                                                                    |
+| %d                      | converts signed integers                                                  |
+| %i                      | converts signed integers                                                  |
 | %u                      | converts unsigned integers                                               |
 | %x                      | converts unsigned hexadecimal integer (lowercase)                        |
 | %X                      | converts unsigned hexadecimal integer (uppercase)                        |
